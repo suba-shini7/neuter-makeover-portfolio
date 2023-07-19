@@ -1,0 +1,216 @@
+*{
+	margin: 0;
+}
+
+header{
+	/*background: blue;*/
+	width: 100%;
+	height: 80px;
+	display: flex;
+	flex-direction: row;
+	margin-top: 20px;
+}
+.logo{
+	width: 200px;
+	height: 80px;
+	/*background: red;*/
+	display: flex;
+	align-items: center;
+}
+.logo1{
+	width: 120px;
+	height: 80px;
+
+
+}
+h2{
+	font-family:'Tektur', cursive;
+	 font-size: 20px;
+	 margin-left: -15px;
+}
+.navi{
+	/*background: green;*/
+	width: 80%;
+	height: 80px;
+	margin-left: 60px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+li{
+	list-style: none;
+	display: inline-block;
+	padding: 30px;
+	font-size: 20px;
+	font-family: 'Tektur', cursive;
+	color: black;
+}
+li:hover{
+	text-decoration: underline;
+}
+
+/*.square{
+	width: 50px;
+	height:5px;
+	background: black;
+	border-radius: 5px 5px 5px 5px;
+}*/
+.search{
+	width: 20%;
+	height: 80px;
+	background: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-right: 40px;
+
+}
+
+.sr{
+	font-family: 'Tektur', cursive;
+	font-size: 20px;
+	border-radius: 10px 10px 10px 10px;
+	background: none;
+	width: 100px;
+	cursor: pointer;
+	margin-left:10px;
+}
+body{
+	margin-left: 60px
+}
+.container{
+	width: 100%;
+	height:100vh;
+	/*background: red;*/
+	display: flex;
+	flex-direction: row;
+}
+.limg{
+	width: 40%;
+	height:100vh;
+	background: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+}
+.leftimg{
+	width: 80%;
+	height: 500px;
+	border-bottom: 2px solid black;
+	box-shadow: 10px 10px 11px #888888;
+	z-index: 2;
+}
+.wrap{
+	width: 60%;
+	height: 400px;
+	position: absolute;
+	bottom: 50px;
+	right: 0px;
+}
+.rcontent{
+	width: 60%;
+	height:100vh;
+	/*background: black;*/
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.toptext{
+	width: 80%;
+	height: 400px;
+	position: relative;
+}
+.globe{
+	width: 80px;
+	height: 80px;
+	position: absolute;
+	top:40px;
+	left: 70px;
+}
+.star
+{
+	width: 80px;
+height: 80px;
+position: absolute;
+right:20px;
+top:10px;
+}
+h1{
+	font-family: 'Tektur', cursive;
+	font-size: 50px;
+	text-align: center;
+	padding:50px;
+	margin-top: 80px;
+}
+p{
+	text-align: center;
+	font-size: 20px;
+}
+.bottomcontent{
+	width: 80%;
+	height: 40px;
+	/*background: red;*/
+	display: flex;
+	justify-content: center;
+	position: relative;
+
+}
+.stars
+{
+	width: 80px;
+height: 80px;
+position: absolute;
+left:600px;
+bottom:10px;
+}
+.ad{
+	font-family: 'Tektur', cursive;
+	font-size: 20px;
+	border-radius: 10px 10px 10px 10px;
+	background: none;
+	width: 200px;
+	cursor: pointer;
+	margin-right: 15px;
+}
+.join{
+	font-family: 'Tektur', cursive;
+	font-size: 20px;
+	border-radius: 10px 10px 10px 10px;
+	background: black;
+	width: 100px;
+	cursor: pointer;
+	color: white;
+}
+/*.empty{
+	width: 80%;
+	height: 100px;
+	background: blue;
+}*/
+.ft{
+	width: 80%;
+	height:80px;
+	/*background: red;*/
+	margin-top: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: row;
+}
+h3{
+	font-size: 25px;
+}
+.ic{
+	display: flex;
+	width: 80%;
+	height: 40px;/*
+	background: red;*/
+	align-items: center;
+	justify-content: center;
+
+}
+.ic a{
+	text-decoration: none;
+	color: black;
+	margin-left: 15px;
+}
