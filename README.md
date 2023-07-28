@@ -16,5 +16,5 @@ This is my work designed to gain my knowledge
 
 ## Lessons Learned
 
-The lesson i learned by building this food zone web that how to use flexbox  and positioning.
+The lesson i learned by building this web that how to use flexbox  and positioning.
 
