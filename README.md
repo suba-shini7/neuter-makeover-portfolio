@@ -1,6 +1,6 @@
 # neuter-makeover-portfolio
 
-This is my work designed to gain my knowledge
+This is my work designed to gain my knowledge.
 
 
 ## Screenshots
@@ -16,5 +16,5 @@ This is my work designed to gain my knowledge
 
 ## Lessons Learned
 
-The lesson i learned by building this web that how to use flexbox  and positioning.
+The lesson i learned by building this web that how to use flexbox and positioning.
 
